@@ -391,6 +391,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [X.Web.RSS](https://github.com/dncuug/X.Web.RSS) – Simple RSS Feed generator for .NET and .NET Core
 
 ### Web Framework
+* [Giraffe](https://github.com/dustinmoris/Giraffe) - Extremley fast and highly scalable ASP.NET Core web framework for F# and functional programming. 
 * [ReactJS.NET](https://github.com/reactjs/React.NET) - .NET library for JSX compilation and server-side rendering of React components.
 * [redux.NET](https://github.com/GuillaumeSalles/redux.NET) - Predictable state container for .NET apps. Inspired by [https://github.com/reactjs/redux](https://github.com/reactjs/redux).
 * [RService.io](https://github.com/Stoom/RService.IO) - ASP.Net Core RESTful microservice framework that focusing on speed and ease of use.
